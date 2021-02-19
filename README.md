@@ -1,7 +1,14 @@
 # cartrack
 CarTrack technical assesment
 
-The following  describes the creation of the postgrs database , 
+It is assumed that the user / installer is Familiar with the setup with with the setup of PostgreSQL, 
+if not take a look at the Following Youtbe tutorial.
+
+https://www.youtube.com/watch?v=BLH3s5eTL4Y&t=821s
+NB **  this Is for setting up in a Windows environment.
+
+
+The following  describes the creation of the postgresql database , 
 CREATE DATBASE cartrack ;
 
 CREATE TABLE person (
